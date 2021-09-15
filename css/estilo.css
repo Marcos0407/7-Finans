@@ -1,0 +1,17 @@
+/* Formatações do Inicio do Site */
+#home{
+    background: #ffc107;
+    color: #fff;
+}
+
+/* Home01 */
+#home01, #home02{
+    padding: 60px 0;
+    border-bottom: 1px solid #999999;
+}
+
+
+/* Footer */
+footer p a{
+    margin: 20px;
+}
